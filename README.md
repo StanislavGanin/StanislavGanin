@@ -80,6 +80,8 @@
 </a>
 <a href="https://Mongodb.io/">
 <img src="https://github.com/StanislavGanin/StanislavGanin/blob/main/icons/Mongodb.png" alt="Mongodb" width="50" height="50" />
+<a href="https://Kibana.io/">
+<img src="https://github.com/StanislavGanin/StanislavGanin/blob/main/icons/Kibana.png" alt="Kibana" width="50" height="50" />
 </a>
 </p>
 
