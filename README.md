@@ -1,7 +1,7 @@
 ### Привет 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer)](https://git.io/typing-svg)
 ### Обо мне :sunglasses:
-- В тестировании давно; :older_man:
+- Тестирую Web and Mobile; :older_man:
 - Развиваюсь в QA Lead;:mortar_board:
 - Смотрю документалки про золотодобычу;
 - Путешествую;:airplane:
