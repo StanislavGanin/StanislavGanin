@@ -78,6 +78,9 @@
 <a href="https://dbeaver.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
 </a>
+<a href="https://Mongodb.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Mongodb.png" alt="Mongodb" width="50" height="50" />
+</a>
 </p>
 
 ## Мои контакты
