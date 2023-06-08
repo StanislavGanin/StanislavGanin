@@ -80,8 +80,15 @@
 </a>
 <a href="https://Mongodb.io/">
 <img src="https://github.com/StanislavGanin/StanislavGanin/blob/main/icons/Mongodb.png" alt="Mongodb" width="50" height="50" />
+</a>
 <a href="https://Kibana.io/">
 <img src="https://github.com/StanislavGanin/StanislavGanin/blob/main/icons/Kibana.png" alt="Kibana" width="50" height="50" />
+</a>
+<a href="https://docker.io/">
+<img src="https://github.com/StanislavGanin/StanislavGanin/blob/main/icons/docker.png" alt="docker" width="50" height="50" />
+</a>
+<a href="https://pgadmin.io/">
+<img src="https://github.com/StanislavGanin/StanislavGanin/blob/main/icons/pgadmin.png" alt="pgadmin" width="50" height="50" />
 </a>
 </p>
 
