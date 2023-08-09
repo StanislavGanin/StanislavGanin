@@ -10,7 +10,7 @@
 Мое кредо: Ищите майндсет, а не хардскилы!
 ## Мой CV 
 
-[Резюме]((https://drive.google.com/file/d/1cspMH-spOLkExG7w3bqyCsnsfuRsrN3p/view?usp=sharing))
+[Резюме](https://drive.google.com/file/d/1cspMH-spOLkExG7w3bqyCsnsfuRsrN3p/view?usp=sharing)
 ## Инструменты и технологии
 Блок для инструментов. 
 
