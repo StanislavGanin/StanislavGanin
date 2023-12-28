@@ -2,17 +2,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer)](https://git.io/typing-svg)
 ### Обо мне :sunglasses:
 - Тестирую в Финтех Web and Mobile; :older_man:
-- Развиваюсь в QA Lead;:mortar_board:
+- Развиваюсь в QA Lead;
 - Смотрю документалки про золотодобычу;
-- Путешествую;:airplane:
+- Путешествую;
 - Варю пиво; :beer:
 
 Мое кредо: Ищите майндсет, а не хардскилы!
 ## Мой CV 
 
-[Резюме](https://drive.google.com/file/d/1cspMH-spOLkExG7w3bqyCsnsfuRsrN3p/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1uj2mgW9iThAn1RhJWbGp-pGMnOTDC_e2/view?usp=drive_link)
 ## Инструменты и технологии
-Блок для инструментов. 
+
 
 <p align="left">
 <a href="https://qase.io/">
